@@ -8,8 +8,9 @@ Python (>=2.7)
 TensorFlow (>=r0.11)
 NLTK
 SpaCy
-# Usage
 
+
+# Usage
 The data used for training and testing is in the ./data/ folder, which includes:
 1) the dictionary that map each relation type to id (relation2id.txt)
 2) the dictionary that map entity type to id (keyphrase_type2id)
@@ -21,20 +22,27 @@ To train or test a model, you’ll first need to vectorize the raw data and turn
 numpy arrays. For your convenience, the numpy array files for train and test set have been
 included in the ./vectorized_data/ folder. But you can still preprocess the data on your own
 with the following command:
+
       python prepare_data.py
+      
 The files will be outputted to ./vectorized_data/ folder.
 
 # Training
 To train a model, please run:
-python train.py
+
+      python train.py
+
 The model will be stored in the ./model/ folder. Modify the line of the source code to
 change the model name and path.
 For your convenience, a pre-trained model is included in the ./model folder.
 
 # Testing
 To test a model with a existing model, please run:
-          python test.py
+      
+      python test.py
+      
 This command line will output the prediction results to ./test_pred/ folder.
 
 Then you can compute the model performances using:
-python eval.py ./data/test/ ./test_pred/ keys
+      
+      python eval.py ./data/test/ ./test_pred/ keys
