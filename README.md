@@ -5,8 +5,11 @@ HYPONYM-OF, (ii) SYNONYM-OF, and (iii) NONE.
 
 # Requirements
 Python (>=2.7)
+
 TensorFlow (>=r0.11)
+
 NLTK
+
 SpaCy
 
 
