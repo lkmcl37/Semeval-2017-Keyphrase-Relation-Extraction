@@ -46,3 +46,21 @@ This command line will output the prediction results to ./test_pred/ folder.
 Then you can compute the model performances using:
       
       python eval.py ./data/test/ ./test_pred/ keys
+      
+# Data
+In this project I used the data provided by SemEval 2017, which is a corpus built from ScienceDirect open access publications. It consists of 500 journal articles evenly distributed among the domains Computer Science, Material Sciences and Physics.
+The data contains two types of documents: plain text documents with paragraphs, and brat .ann standoff documents with keyphrase annotations for those paragraphs. The training data consists of 350 documents, 50 are kept for development and 100 for testing. 
+
+# Model
+The model takes a sentence produced from the preprocessing stage and predicts the relation of the keyphrases pairs. It has the following structure:
+1. The input layer turns the words, their positions and entity type features into a embedding vector and concatenates them.
+2. The Bi-GRU layer obtain the word-level attention, which helps the model to better determine which parts of the sentence are most influential with respect to the two keyphrases of interest.
+3. The sentence-level attention layer builds attention over multiple instances, which helps make full use of all informative sentences.
+4. The softmax layer makes predication on relation type of two keyphrases given the output of previous layers.
+
+# References
+1. MIT at SemEval-2017 Task 10: Relation Extraction with Convolutional Neural Networks [Lee et al., 2017]
+2. ScienceIE - Extracting Keyphrases and Relations from Scientific Publications [Augenstein et al., 2017 ]
+3. Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification [Zhou et al.,2016]
+4. Neural Relation Extraction with Selective Attention over Instances [Lin et al.,2016].
+5. ScienceIE: https://scienceie.github.io/index.html
