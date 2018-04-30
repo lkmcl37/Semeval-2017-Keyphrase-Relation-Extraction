@@ -1,0 +1,9 @@
+electron_recoils	beta-beam_source
+beta-beam_source	beta-beam_source
+electron	neutrino
+neutrino_fluxes	beta-beams
+electron	beta-beam_source
+electron	electron_recoils
+neutrino	neutrino
+static_tritium_source	neutrino
+Helium-6_ions	neutrino

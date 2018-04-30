@@ -1,0 +1,3 @@
+NA 0
+Hyponym-of 1
+Synonym-of 2

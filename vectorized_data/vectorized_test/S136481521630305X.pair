@@ -1,0 +1,17 @@
+soil_mineral_N	measured_and_simulated_data_for_soil_moisture
+N2O	soil_moisture
+soil_mineral_N	soil_moisture
+SB	constituent_statistics
+constituent_statistics	SDSD
+N2O_prediction	soil_moisture_prediction
+N2O	N2O_datasets
+SDSD	constituent_statistics
+soil_mineral_N	N2O
+SDSD	MSE
+N2O_prediction	N2O_prediction
+N2O	measured_and_simulated_data_for_soil_moisture
+soil_moisture	N2O_datasets
+N2O	N2O_emissions
+LCS	constituent_statistics
+soil_mineral_N_prediction	N2O_prediction
+N2O	N2O

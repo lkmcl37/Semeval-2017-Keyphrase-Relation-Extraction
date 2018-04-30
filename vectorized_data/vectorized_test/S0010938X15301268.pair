@@ -1,0 +1,14 @@
+initial_spreading	formation_rate
+Cu40Zn	hydrozincite
+Cu40Zn	corrosion_products
+hydrozincite	simonkolleite
+hydrozincite	NaCl-containing_droplets
+Cu40Zn	HZ7
+formation_of_simonkolleite	formation_rate
+diamond_polished_surface	DP
+hydrozincite	corrosion_products
+initial_spreading	formation_of_simonkolleite
+Cu40Zn	diamond_polished_surface
+formation_rate	formation_rates
+Cu2O	corrosion_products
+hydrozincite	HZ7

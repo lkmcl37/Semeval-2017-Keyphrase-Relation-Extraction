@@ -1,0 +1,12 @@
+R2π(s)	annihilation_form_factor
+partonic_transverse_momentum	hard_scattering_process
+annihilation_form_factor	R2π(s)
+annihilation_form_factor	meson_pair
+electromagnetic_meson	meson_pair
+formula	formula_for_meson_pair_production
+pion_pair	photon
+electromagnetic_meson	annihilation_form_factor
+photon_helicities	photon
+formula	Brodsky–Lepage_formula
+photon	pions
+electromagnetic_form_factor	two-photon_annihilation

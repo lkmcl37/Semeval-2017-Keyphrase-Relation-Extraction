@@ -1,0 +1,11 @@
+SURF	Speeded_up_robust_features
+SVM	classification_method
+SVM	classification_method
+Support_vector_machine	SVM
+SVM	Support_vector_machine
+Scale-invariant_feature_transform	SIFT
+comparison_between_two_popular_feature_extraction_methods	feature_extraction
+classification_method	Support_vector_machine
+SIFT	Scale-invariant_feature_transform
+SVM	SVM
+Speeded_up_robust_features	SURF

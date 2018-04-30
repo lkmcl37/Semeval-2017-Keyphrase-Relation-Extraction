@@ -1,0 +1,8 @@
+SU(N)	AdS5×S5
+all-loop_effective_action	higher_loops
+two-loop_QED_effective_action	one-loop_action
+Coulomb_branch	gauge_group
+SU(N)	gauge_group
+Coulomb_branch	SU(N)
+SU(N−1)×U(1)	gauge_group
+SU(N)	SU(N−1)×U(1)

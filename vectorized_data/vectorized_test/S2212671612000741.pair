@@ -1,0 +1,8 @@
+KEMM	construct_a_select_matrix
+sentence_aligning	sentence_aligning
+Kernel_Extensional_Matrix_Matching	KEMM
+sentence_alignment	sentence_alignment
+KEMM	Kernel_Extensional_Matrix_Matching
+KEMM	KEMM
+sentence_alignment	sentence_aligning
+similarity_matrix	similarity_matrix

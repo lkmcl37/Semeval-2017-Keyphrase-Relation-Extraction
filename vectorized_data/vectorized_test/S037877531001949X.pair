@@ -1,0 +1,13 @@
+Substrate_Induced_Coagulation	SIC
+coating	SIC_coating
+conducting_polymers	printed_wiring_boards
+meta-stable_dispersion	dip-coating
+Teflon	conducting_polymers
+metallization	electromagnetic_wave_shielding
+coating	coating
+printed_wiring_boards	Teflon
+carbon_black	carbon_blacks
+conducting_polymers	Teflon
+dip-coating	coating
+SIC	Substrate_Induced_Coagulation
+LiCoO2-composite_electrodes	Li-ion_batteries

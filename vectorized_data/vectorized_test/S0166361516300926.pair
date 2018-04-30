@@ -1,0 +1,9 @@
+hybrid_ERP_system	hybrid_ERP_system
+ERP_installation	Enterprise_Social_Software
+ERP_system	Enterprise_Social_Software
+hybrid_ERP_system	Enterprise_Social_Software
+Enterprise_Social_Software	ESS
+ERP_system	ERP_system
+ERP_installation	hybrid_ERP_system
+ERP_installation	ERP_system
+ERP_installation	ESS

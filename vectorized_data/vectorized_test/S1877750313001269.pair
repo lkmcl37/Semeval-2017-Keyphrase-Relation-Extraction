@@ -1,0 +1,8 @@
+virtualization_technologies	high_performance_computing
+interaction_models	Grid_and_cloud_computing
+Grid_and_cloud_computing	cloud_computing
+interaction_models	interaction_models
+virtualization_technologies	virtualization_technologies
+grid_computing	queuing_system
+interaction_models	cloud_computing
+HPC	HPC

@@ -1,0 +1,12 @@
+TDMA	time_division_multiple_access
+PHASeR	PHASeR
+MAC	TDMA
+PHASeR	multihop_routing_protocol
+PHASeR	encapsulation
+multihop_routing_protocol	PHASeR
+medium_access_control	TDMA
+MAC	time_division_multiple_access
+PHASeR	gradient_maintenance
+sensors	MWSNs
+MAC	medium_access_control
+time_division_multiple_access	medium_access_control

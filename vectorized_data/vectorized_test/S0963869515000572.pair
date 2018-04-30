@@ -1,0 +1,17 @@
+guided_waves	Shear_horizontal_(SH)_ultrasound_waves
+Shear_horizontal_(SH)_ultrasound_waves	guided_waves
+propagation	oscillation
+phase_and_group_speed	bulk_shear_wave_speed
+phase_and_group_speed	shear_wave_speed
+phase_and_group_speed	shear_wave_speed
+wave	Shear_horizontal_(SH)_ultrasound_waves
+phase_and_group_speed	propagation
+shear_wave_speed	shear_wave_speed
+wave	bulk_waves
+propagation	SH_ultrasound
+propagation	bulk_shear_wave_speed
+wave	SH0
+wave	guided_waves
+propagation	propagation
+wave	SH_waves
+SH_waves	bulk_waves

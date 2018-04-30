@@ -1,0 +1,10 @@
+eddy_current_probe	impedance_SNR
+NERSE	near_electrical_resonance_signal_enhancement
+SNR	eddy_current_probe
+SNR	SNR
+NERSE	defect-decoupling_resonance-shift_effect
+near_electrical_resonance_signal_enhancement	NERSE
+near_electrical_resonance_signal_enhancement	defect-decoupling_resonance-shift_effect
+SNR	impedance_SNR
+NERSE	NERSE
+NERSE	ECT_inspection

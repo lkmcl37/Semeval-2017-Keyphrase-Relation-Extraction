@@ -1,0 +1,17 @@
+Shuttle_Radar_Topographical_Mission	fine-resolution_(3″_or_finer)_terrain_data_bases
+Digital_Elevation_Model	Shuttle_Radar_Topographical_Mission
+3DWF	3DWF
+fine-scale_(meters_up_to_100m)_atmospheric_flow	3DWF
+SRTM	Digital_Elevation_Model
+SRTM	DEM
+East_North_and_Up	ENU
+SRTM	Shuttle_Radar_Topographical_Mission
+SRTM	Shuttle_Radar_Topographical_Mission
+DEM	fine-resolution_(3″_or_finer)_terrain_data_bases
+SRTM	fine-resolution_(3″_or_finer)_terrain_data_bases
+SRTM	fine-resolution_(3″_or_finer)_terrain_data_bases
+WGS84	World_Geodetic_System_84
+WGS84	ENU
+DEM	Digital_Elevation_Model
+Digital_Elevation_Model	fine-resolution_(3″_or_finer)_terrain_data_bases
+SRTM	SRTM

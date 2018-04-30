@@ -1,0 +1,8 @@
+synaptic_inputs	membrane_potentials
+PDEs	membrane_potentials
+synaptic_inputs	Partial_Differential_Equations
+synaptic_inputs	PDEs
+membrane_potentials	Partial_Differential_Equations
+PDEs	Partial_Differential_Equations
+Ordinary_Differential_Equations	ODEs
+Partial_Differential_Equations	PDEs

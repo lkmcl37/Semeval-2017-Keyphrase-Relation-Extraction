@@ -1,0 +1,3 @@
+multipole_expansion	multipole_expansion
+hard_cutoff_schemes	dimensional_regularization
+VQCD(r)	OPE

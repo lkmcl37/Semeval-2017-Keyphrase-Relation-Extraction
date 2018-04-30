@@ -1,0 +1,17 @@
+Invitrogen	pHrodo_Red_dye
+neoglycocomplexes	bone_marrow_derived_dendritic_cells
+antigen	antigen-loaded_cells
+antigens	CD8α−/pHrodo+_DCs
+mannan-conjugates_MN–Ova_and_MN–Pap	bone_marrow_derived_dendritic_cells
+CD8α−/pHrodo+_DCs	CD8α−_DCs
+antigens	CD8α−_DCs
+antigens	MD–Pap
+antigens	endosomes
+neoglycocomplexes	mannan-conjugates_MN–Ova_and_MN–Pap
+antigens	antigens
+CD8α	CD11c
+antigens	pHrodo_Red_dye
+neoglycocomplexes	MN–Pap
+CD8α	pHrodo-labeled_antigen
+antigens	pHrodo+MHCIIhigh_DCs
+bone_marrow_derived_dendritic_cells	BMDCs

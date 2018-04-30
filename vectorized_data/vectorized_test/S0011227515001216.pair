@@ -1,0 +1,17 @@
+thermal_conductivity	magnetic_field
+tungsten_heat_switches	20000_RRR_heat_switch
+mKCC_switch	mKCC_switch
+tungsten_heat_switches	MSSL_heat_switch
+thermal_conductivity	thermal_conductivity
+magnetic_field	B
+tungsten_heat_switches	tungsten_heat_switches
+thermal_performance	thermal_conductivity
+cryostat_constraints	mKCC_MR_heat_switch
+cryostat_constraints	miniature_ADR
+κ	B
+thermal_conductivity	κ
+miniature_ADR	miniature_ADR
+20000_RRR_heat_switch	tungsten_heat_switches
+miniature_ADR	mKCC_MR_heat_switch
+magnetic_field	κ
+MSSL_heat_switch	20000_RRR_heat_switch

@@ -1,0 +1,12 @@
+reaction	propagation
+anionic_polystyrene	anionic_polystyrene
+solvent	organic_solvents
+polymerization	reaction
+anionic_polystyrene	(PS
+anionic_polystyrene	(PS
+alkyllithium_initiators	reaction
+termination	polymerization
+polymerization	anionic_polymerization_of_styrene
+termination	monomer_conversion
+washing	polymerization
+polymerization	polymerization

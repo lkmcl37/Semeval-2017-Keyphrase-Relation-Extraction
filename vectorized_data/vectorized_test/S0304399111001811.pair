@@ -1,0 +1,15 @@
+plane_wave	aperture
+round_centered_aperture	plane_wave
+holographic_mask	aperture
+plane_wave	vortices
+holographic_mask	lens_system
+holographic_mask	plane_wave
+magnetic_lenses	plane
+vortices	plane
+round_centered_aperture	aperture
+holographic_mask	holographic_mask
+round_centered_aperture	lens_system
+aperture	lens_system
+aperture	aperture
+plane_wave	lens_system
+round_centered_aperture	holographic_mask

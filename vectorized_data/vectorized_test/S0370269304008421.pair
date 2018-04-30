@@ -1,0 +1,11 @@
+matter_Hamiltonians	vacuum
+relative_orientation_of_the_eigenstates	conversion_in_matter
+Pc	Pc
+Pc	NSI
+conversion_in_matter	vacuum
+matter_Hamiltonians	conversion_in_matter
+generalization_of_these_results_to_the_NSI_case	analytical_solutions_for_Pc
+neutrino	neutrino
+matter_Hamiltonians	relative_orientation_of_the_eigenstates
+neutrino	Pc
+relative_orientation_of_the_eigenstates	vacuum

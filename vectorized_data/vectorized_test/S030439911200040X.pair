@@ -1,0 +1,15 @@
+PSD	elliptical_averaging
+Thon_rings	1D_profile
+Thon_rings	Thon_rings
+PSD	astigmatism
+PSD	2D_experimental_PSD
+Canny_edge_detection	elliptical_averaging
+circular_averaging	elliptical_averaging
+PSD	CTF
+astigmatism	astigmatism
+PSD	2D_PSD_optimization
+PSD	circular_averaging
+PSD	Canny_edge_detection
+astigmatism	circular_averaging
+2D_experimental_PSD	elliptical_averaging
+circular_averaging	2D_experimental_PSD

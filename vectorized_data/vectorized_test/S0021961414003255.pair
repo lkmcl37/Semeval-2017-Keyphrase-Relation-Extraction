@@ -1,0 +1,17 @@
+segregation	Raman_spectroscopy
+re-solidified_material	surface
+Raman_spectroscopy	phase_transition
+segregation	quenched
+re-solidified_material	molten_pool
+crystallise	phase_transition
+re-solidified_material	re-solidified_material
+clear_inflections	solidification_arrest
+segregation	segregation
+solidification_arrest	thermograms
+liquid	surface
+XRD_analysis	material_analysis_by_Raman_spectroscopy
+clear_inflections	thermograms
+segregation	phase_transition
+phase_change	reflected_light_signal_technique
+segregation	segregation_effects
+XRD_analysis	XRD_analysis

@@ -1,0 +1,13 @@
+photons	electron-hole_pairs
+absorption	thermalization
+carrier_cooling	incomplete_absorption
+photons	solar_photons
+radiative_recombination	incomplete_absorption
+radiative_recombination	absorption
+incident_solar_radiation	electric_power
+radiative_recombination	carrier_cooling
+absorption	incomplete_absorption
+carrier_cooling	absorption
+absorption	solar_conversion
+solar_photons	electron-hole_pairs
+thermalization	carrier_cooling

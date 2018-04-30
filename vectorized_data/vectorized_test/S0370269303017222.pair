@@ -1,0 +1,13 @@
+flavor-spin_interactions	flavor-spin_interaction
+quark	quark
+flavor-spin_wave_function	flavor-spin_wave_function
+orbital_wave_function	flavor-spin_interaction
+orbital_wave_function	flavor-spin-orbital_wave_function
+flavor-spin_wave_function	flavor-spin_interaction
+flavor-spin_interactions	color-spin_interactions
+flavor-spin_interaction	flavor-spin_interaction
+flavor-spin_wave_function	orbital_wave_function
+oscillator_confining_potentials	bag_model
+level_ordering	Pairwise_spin-dependent_interactions
+q3_color_wave_function	orbital_wave_function
+quark	quarks

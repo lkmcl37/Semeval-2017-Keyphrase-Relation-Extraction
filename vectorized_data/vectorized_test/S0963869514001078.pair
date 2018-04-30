@@ -1,0 +1,5 @@
+low_carbon_steel	steel
+Lorentz_mechanism	magnetostrictive_mechanism
+magnetic_alloys	EMATs
+ferromagnetic_to_paramagnetic_transition	electromagnetic_ultrasound_generation
+steel	low_carbon_steel

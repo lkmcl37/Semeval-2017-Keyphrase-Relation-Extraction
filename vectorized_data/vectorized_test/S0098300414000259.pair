@@ -1,0 +1,16 @@
+Pig_scripts	Hadoop
+MapReduce	Java_MapReduce
+SQL	user-defined_functions
+MapReduce	MapReduce_workflows
+SQL	SQL_operations
+SQL	UDFs
+SQL	Pig
+MapReduce	MapReduce
+Apache_Pig	MapReduce_workflows
+MapReduce	Apache_Pig
+MapReduce	Pig
+user-defined_functions	UDFs
+SQL_operations	user-defined_functions
+SQL	Pig_Latin
+directed_acyclic_graphs	DAGs
+DAGs	directed_acyclic_graphs

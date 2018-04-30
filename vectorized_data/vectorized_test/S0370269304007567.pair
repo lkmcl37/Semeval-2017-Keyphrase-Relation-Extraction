@@ -1,0 +1,15 @@
+chamber	MAGBOLTZ
+chamber	chambers
+flash_analog-to-digital_converter	drift_chambers
+x–t_relation	relation_between_the_hit_position_and_the_drift_time
+x–t_relation	relation_between_the_hit_position_and_the_drift_time
+gas_property_simulation_package	drift_chamber_simulation_package
+flash_analog-to-digital_converter	chamber
+GARFIELD	drift_chamber_simulation_package
+x–t_relation	x–t_relation
+x–t_relation	chamber_manufacturing
+chamber	drift_chambers
+MAGBOLTZ	gas_property_simulation_package
+chamber	gas_property_simulation_package
+chamber	drift_chamber_simulation_package
+chamber_gas	chamber
